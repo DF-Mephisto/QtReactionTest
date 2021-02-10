@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/QtReactionTest">
+        <file alias="style">styles.qss</file>
+    </qresource>
+</RCC>
